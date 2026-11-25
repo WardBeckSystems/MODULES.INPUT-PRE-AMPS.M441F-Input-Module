@@ -1,0 +1,205 @@
+{
+ "code": "M441F",
+ "connector": "RTO-144",
+ "type": null,
+ "series": "S400",
+ "contacts": "22 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": "M441M",
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "MIC IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "PREAMP OUT",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "LINE IN",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "BOOSTER AMP IN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "FOLDBACK OUT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "SWITCHED CH ON OUT",
+   "kind": "control",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "+24 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "+48 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "D",
+   "signal": "PREAMP OUT",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "LINE IN",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "J",
+   "signal": "BOOSTER AMP IN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "FOLDBACK OUT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "T",
+   "signal": "SWITCHED CH ON OUT",
+   "kind": "control",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "V",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M441M/M441M.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M441F/M441F.rto144.json",
+  "Engineering/RTO-144/M441M/M441M.rto144.json"
+ ]
+}
