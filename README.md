@@ -1,16 +1,16 @@
-# M441F · Input Pre Amps
+# M441F Input Module · Input Pre Amps
 
 Ward-Beck Systems M441F, 1972|5. Wiki page: [M441F on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M441F.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 4 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 3 |
 
 ## Mechanical
@@ -20,15 +20,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNWlIY0F3TTFmQXc/view?resourcekey=0-BjPRNuHRii5P0vldjrNJIw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNWlIY0F3TTFmQXc&resourcekey=0-BjPRNuHRii5P0vldjrNJIw" width="240" alt="1972 - M441F - 441-04-007.jpg"></a><br><sub>1972|5 · 441-04-007 · <a href="MECHANICAL/1972%20-%20M441F%20-%20441-04-007%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M441F.stl`](MECHANICAL/M441F.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M441F)
-
-- **Size:** 52.9 × 183.95 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 4 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M441F - front panel.svg`)
-- the drawn panel is 0.24 wide to high, the size 0.29: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M441F.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -81,6 +72,11 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [M441F.kicad_sym](KICAD/M441F.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
